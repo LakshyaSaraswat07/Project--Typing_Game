@@ -26,8 +26,3 @@ This application tracks typing performance using a timer and dynamically generat
 
 ## 🔗 Live Demo
 https://lakshyasaraswat07.github.io/Project--Typing_Game/
-
----
-
-## 👨‍💻 Author
-Lakshya Saraswat
